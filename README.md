@@ -57,6 +57,7 @@ Llama 2 is a second-generation open-source large language model (LLM) from Meta.
 - [Running LLaMA 2 Locally on Ubuntu: A Brief Guide](https://medium.com/ai-mvp-hub/running-llama-locally-on-ubuntu-a-brief-guide-f9ab9a27eed4) 🐑: A brief guide on running LLaMA 2 locally on Ubuntu.
 - [Fine-tune Llama 2 with SFT and DPO](https://medium.com/@anchen.li/fine-tune-llama-2-with-sft-and-dpo-8b57cf3ec69) 🐑: A discussion on fine-tuning the LLAMA 2 model using the SFT and DPO methods.
 - [Deploy Llama-2 models easily with LMDeploy!](https://openmmlab.medium.com/deploy-llama-2-models-easily-with-lmdeploy-1cb001d70290) 🐑: A guide on how to quickly deploy the Llama-2 models with LMDeploy.
+- [Finetune Llama 3.1 on GCP for production use cases](https://www.zenml.io/blog/how-to-finetune-llama-3-1-with-zenml)
 
 ## Online Courses
 
